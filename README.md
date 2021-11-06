@@ -1,5 +1,6 @@
 # devops-netology
 first line
+second
 
   При добавление фаилов будут проигнорированы:
 1) Локальную директорию terraform
